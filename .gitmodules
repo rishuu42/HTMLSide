@@ -1,0 +1,6 @@
+[submodule "CSSSide"]
+	path = CSSSide
+	url = git@github.com:rishuu42/CSSSide.git
+[submodule "JSSide"]
+	path = JSSide
+	url = git@github.com:rishuu42/JSSide.git
